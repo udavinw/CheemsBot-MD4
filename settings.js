@@ -55,23 +55,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['916909137213'] //ur owner number
-global.ownername = "🦄Dream Guy Xeon"
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.vcardowner = ['94761192103'] //ur owner number
+global.ownername = "🎃Udavin Wijesundara"
+global.ytname = "YT: Uw Tech Show" //ur yt chanel name
+global.socialm = "Insta: udavin_wijesundara" //ur github or insta name
+global.location = "Srilanka" //ur location
 
 //bot bomdy 
-global.owner = ['916909137213']
-global.ownertag = '916909137213' //ur tag number
-global.botname = 'Cheems Bot MD V4' //ur bot name
-global.linkz = "https://youtu.be/xn9RatOrbuI" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/xn9RatOrbuI" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
-global.reactmoji = "😘" //ur menu react emoji
-global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Dream Guy Xeon" //ur sticker watermark author
+global.owner = ['94761192103']
+global.ownertag = '94761192103' //ur tag number
+global.botname = 'White King WhatsApp Bot V2' //ur bot name
+global.linkz = "https://www.youtube.com/channel/UC8CNAgNIXy1O2vLBBSN7tcA" //your theme url which will be displayed on whatsapp
+global.websitex = "https://www.youtube.com/channel/UC8CNAgNIXy1O2vLBBSN7tcA" //ur website to be displayed
+global.botscript = 'https://www.youtube.com/watch?v=vXBO1zJbGJ4&t=283s' //script link
+global.reactmoji = "🇱🇰" //ur menu react emoji
+global.themeemoji = "🎃" //ur theme emoji
+global.packname = "Made By White King WhatsApp Bot" //ur sticker watermark packname
+global.author = "🎃MADE UW TECH SHOW BOT🎃" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
